@@ -20,6 +20,7 @@ void bubblesort(int a1[],int a)
 
 int main()
 {
+        cout<<"Hi";
 	int n=7;
     int arr[7]={13,5,2,7,12,1,10};
     cout<<"Array before sort";
